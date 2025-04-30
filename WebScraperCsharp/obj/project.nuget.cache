@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "rUjC46Wk8dA=",
+  "success": true,
+  "projectFilePath": "/Users/pavolocelka/Documents/WebScraper Exercise/WebScraperCsharp/WebScraperCsharp.csproj",
+  "expectedPackageFiles": [
+    "/Users/pavolocelka/.nuget/packages/csvhelper/33.0.1/csvhelper.33.0.1.nupkg.sha512",
+    "/Users/pavolocelka/.nuget/packages/htmlagilitypack/1.12.1/htmlagilitypack.1.12.1.nupkg.sha512"
+  ],
+  "logs": []
+}
